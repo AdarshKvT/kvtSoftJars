@@ -1,2 +1,2 @@
 # kvtSoftJars
-open soruces libraries 
+open soruce libraries 
